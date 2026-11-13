@@ -100,7 +100,10 @@ Designed and manufactured a custom enclosure for an electronic circuit.
 - Physical printing using an Ender 3 printer.
 
 ---
-
+## Certificates
+ <a href="https://github.com/Aditya-Chhatbar/Certificates">
+    View Certificates
+ </a>
 ## 📊 GitHub Statistics
 
 <p align="center">
